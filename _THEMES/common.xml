@@ -343,6 +343,18 @@
 			<face>-1</face>
 			<rotation>0</rotation>
 		</prop>
+		
+		</prop>
+		<prop id="PROP3" index="2">
+                <file>common.goani_thinkpad.swf</file>
+                <x>293.275</x>
+                <y>201</y>
+                <xscale>0.5557461</xscale>
+                <yscale>0.5557461</yscale>
+                <face>1</face>
+                <rotation>0</rotation>
+		</prop>	
+		
 	</compositebg>
 	<compositebg id="aclassroom" name="Classroom" enable="Y" default="N" thumb="school_classroom.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="3168">
 		<bg id="SCHOOLCLASSROOMBG0" index="0">
